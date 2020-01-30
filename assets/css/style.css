@@ -7,14 +7,13 @@ body {
     margin: 0;
 }
 
-/* main */
 #main {
     margin: 30px 8px;
     padding: 15px;
     background: #eee;
-    border-radius: 5px;
+    border-radius: 15px;
 }
-/* end main */
+
 h1{
     margin-bottom: 0;
 }
@@ -27,13 +26,6 @@ p{
     display: block;
     font-size: 16px;
 }
-figure{
-    display: block;
-    margin-block-start: 1em;
-    margin-block-start: 1em;
-    margin-inline-start: 40px;
-    margin-inline-end: 40px;
-}
 
 img{
     max-width: 100%;
@@ -43,19 +35,14 @@ img{
 }
 
 #img-div{
+    border-radius: 15px;
     background: white;
     padding: 10px;
     margin: 0;
 }
-figcaption{
-    display: block;
-}
+
 #img-caption{
     margin: 15px 0 5px 0;
-}
-
-section{
-    display: block;
 }
 
 #headline{
